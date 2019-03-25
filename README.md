@@ -16,3 +16,6 @@ You can try out different analysis by using one of the following & modifying the
 3) - df1 = dfRead[dfRead.tweet_gender.isin(['male', 'brand'])]
 
 4) - df1 = dfRead[dfRead.tweet_gender.isin(['female', 'brand'])]
+
+
+![Alt text](https://raw.githubusercontent.com/atishaycn/twitter_gender_prediction/master/logistic_regression_important_features_female.png "Title")
