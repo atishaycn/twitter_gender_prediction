@@ -21,16 +21,3 @@ You can try out different analysis by using one of the following & modifying the
 
 
 
-Top distinguishing features to predict user is female
-
-![Alt text](https://raw.githubusercontent.com/atishaycn/twitter_gender_prediction/master/logistic_regression_important_features_female.png "Top distinguishing features to predict user is female")
-
-
-
-
-
-
-Top distinguishing features to predict user is male
-
-![Alt text](https://raw.githubusercontent.com/atishaycn/twitter_gender_prediction/master/logistic_regression_important_features_male.png "Top distinguishing features to predict user is male")
-
